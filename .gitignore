@@ -1,0 +1,13 @@
+# Configuration files
+config.json
+.env
+
+# Python caching and environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+venv/
+ENV/
