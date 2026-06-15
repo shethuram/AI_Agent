@@ -44,3 +44,14 @@ This project is structured to directly map to the participants' deliverables:
 - **Sample Input**: Located in [requirements.txt](file:///e:/AI%20Agent/requirements.txt)
 - **Sample Output**: Generated at `output_analysis.html` and `output_raw_response.txt` after running the script.
 - **Architecture Diagram**: Rendered above in this README.
+
+## Outputs
+
+![](screenshots/o1.png)
+---
+
+![](screenshots/o2.png)
+---
+
+![](screenshots/o3.png)
+---
